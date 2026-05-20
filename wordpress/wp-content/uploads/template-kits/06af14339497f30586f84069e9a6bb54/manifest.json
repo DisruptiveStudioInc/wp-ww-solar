@@ -1,0 +1,1331 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Helioxa - Solar & Green Renewable Energy Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Solutions",
+            "screenshot": "screenshots\/solutions.jpg",
+            "source": "templates\/solutions.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/solutions\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Solution Detail",
+            "screenshot": "screenshots\/solution-detail.jpg",
+            "source": "templates\/solution-detail.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/solution-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Studies",
+            "screenshot": "screenshots\/case-studies.jpg",
+            "source": "templates\/case-studies.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/case-studies\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Study Detail",
+            "screenshot": "screenshots\/case-study-detail.jpg",
+            "source": "templates\/case-study-detail.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/case-study-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Careers",
+            "screenshot": "screenshots\/careers.jpg",
+            "source": "templates\/careers.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/careers\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.35.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Kit for Elementor",
+            "version": "3.0.3",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "4.1.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "engineers-work-walking-on-factory-roof-inspect-sur-2026-01-08-23-41-26-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/02\/engineers-work-walking-on-factory-roof-inspect-sur-2026-01-08-23-41-26-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 106277,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/a4c9aef5-b8e0-4648-93d8-51afdf1c458b"
+        },
+        {
+            "filename": "young-african-american-engineer-in-a-field-of-sola-2026-01-08-23-42-33-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/young-african-american-engineer-in-a-field-of-sola-2026-01-08-23-42-33-utc-1-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 241741,
+            "dimensions": [
+                2000,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/a71876ae-8639-4023-adf5-3d96090a4a0b"
+        },
+        {
+            "filename": "wind-turbine-will-farms-in-rotation-to-generate-el-2026-01-09-01-10-20-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/02\/wind-turbine-will-farms-in-rotation-to-generate-el-2026-01-09-01-10-20-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 98334,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/08589297-dff5-40e2-af86-7d0236e763f4"
+        },
+        {
+            "filename": "young-family-of-three-is-crouching-near-photovolta-2026-01-08-08-23-29-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/young-family-of-three-is-crouching-near-photovolta-2026-01-08-08-23-29-utc-1-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 231049,
+            "dimensions": [
+                1700,
+                1131
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/f1de3acf-55f4-4607-8877-31e6c4db2501"
+        },
+        {
+            "filename": "solar-panels-wind-turbines-on-green-field-altern-2026-01-09-06-42-22-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/02\/solar-panels-wind-turbines-on-green-field-altern-2026-01-09-06-42-22-utc-1-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 218923,
+            "dimensions": [
+                1500,
+                844
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/ade2e659-fb77-426c-9296-98e255279a16"
+        },
+        {
+            "filename": "solar-panels-installed-in-the-green-forest-clean-a-2026-01-09-08-00-51-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/solar-panels-installed-in-the-green-forest-clean-a-2026-01-09-08-00-51-utc-1-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 227397,
+            "dimensions": [
+                1100,
+                619
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/e1216f14-f429-4b02-891a-d3ddf13dd7b6"
+        },
+        {
+            "filename": "Logo-1-1.png",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/02\/Logo-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6700,
+            "dimensions": [
+                550,
+                167
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo-2-1.png",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/02\/Logo-2-1-800x147.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 13395,
+            "dimensions": [
+                909,
+                167
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo-3-1.png",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/02\/Logo-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 11208,
+            "dimensions": [
+                642,
+                184
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo-4-1.png",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/02\/Logo-4-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 5772,
+            "dimensions": [
+                550,
+                146
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "solar-plant-2026-01-08-07-27-22-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/solar-plant-2026-01-08-07-27-22-utc-1-800x1095.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 216736,
+            "dimensions": [
+                1200,
+                1643
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/ba5bab35-5a25-45f2-9b86-6cf51b1f053f"
+        },
+        {
+            "filename": "young-family-of-three-is-crouching-near-photovolta-2026-01-09-08-10-49-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/young-family-of-three-is-crouching-near-photovolta-2026-01-09-08-10-49-utc-1-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 169633,
+            "dimensions": [
+                2000,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/6b472ad1-dbad-404e-adb8-8e0da56ced44"
+        },
+        {
+            "filename": "solar-panels-and-wind-turbines-on-open-field-with-2026-01-08-23-49-40-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/02\/solar-panels-and-wind-turbines-on-open-field-with-2026-01-08-23-49-40-utc-1-800x497.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 196746,
+            "dimensions": [
+                1600,
+                994
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/476cae63-6127-4062-9899-a4308fdfa297"
+        },
+        {
+            "filename": "happy-family-near-their-house-with-solar-panel-al-2026-01-05-06-36-04-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/happy-family-near-their-house-with-solar-panel-al-2026-01-05-06-36-04-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/solutions.json",
+                    "name": "Solutions"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 217261,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/886d7271-fa7b-411c-bb08-60a56369e0ee"
+        },
+        {
+            "filename": "aerial-view-of-regular-american-home-roof-with-blu-2026-01-06-09-53-44-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/aerial-view-of-regular-american-home-roof-with-blu-2026-01-06-09-53-44-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/case-study-detail.json",
+                    "name": "Case Study Detail"
+                }
+            ],
+            "filesize": 93708,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/10977e8c-c092-424f-ab81-4e7244c38c69"
+        },
+        {
+            "filename": "aerial-top-view-of-new-modern-residential-house-co-2026-01-06-09-59-05-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/aerial-top-view-of-new-modern-residential-house-co-2026-01-06-09-59-05-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 164592,
+            "dimensions": [
+                1000,
+                666
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/a372c049-4037-4d59-983d-4ee864f9f1ce"
+        },
+        {
+            "filename": "aerial-view-of-solar-panels-or-solar-cells-on-the-2026-01-05-06-07-13-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/aerial-view-of-solar-panels-or-solar-cells-on-the-2026-01-05-06-07-13-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/solution-detail.json",
+                    "name": "Solution Detail"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 90957,
+            "dimensions": [
+                1000,
+                666
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/1e7a935a-fd3a-4362-9dac-0ea4204af63e"
+        },
+        {
+            "filename": "aerial-view-of-construction-site-with-new-tightly-2026-01-07-02-09-39-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/aerial-view-of-construction-site-with-new-tightly-2026-01-07-02-09-39-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 106403,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/d956a6a1-b4e9-437f-9523-fba8b7016ae4"
+        },
+        {
+            "filename": "faq-1-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/faq-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 15385,
+            "dimensions": [
+                461,
+                461
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/3ca79870-dff9-4dcd-9aa9-a0208614cbe8"
+        },
+        {
+            "filename": "faq-2-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/faq-2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 16016,
+            "dimensions": [
+                461,
+                461
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/3ca79870-dff9-4dcd-9aa9-a0208614cbe8"
+        },
+        {
+            "filename": "faq-3-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/faq-3-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 17542,
+            "dimensions": [
+                461,
+                461
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/3ca79870-dff9-4dcd-9aa9-a0208614cbe8"
+        },
+        {
+            "filename": "faq-4-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/faq-4-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 15047,
+            "dimensions": [
+                461,
+                461
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/3ca79870-dff9-4dcd-9aa9-a0208614cbe8"
+        },
+        {
+            "filename": "male-and-female-engineers-inspecting-solar-panels-2026-01-05-06-35-04-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/male-and-female-engineers-inspecting-solar-panels-2026-01-05-06-35-04-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 137208,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/81c76874-e057-4d6b-a312-ed154f2861c1"
+        },
+        {
+            "filename": "young-handsome-businessman-at-the-modern-kitchen-w-2026-01-09-06-40-32-utc-1-e1772505869670.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/young-handsome-businessman-at-the-modern-kitchen-w-2026-01-09-06-40-32-utc-1-e1772505869670-800x1158.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 94829,
+            "dimensions": [
+                1000,
+                1448
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/cd76099f-48f0-4b03-9cbb-56a26985e94c"
+        },
+        {
+            "filename": "portrait-of-a-beautiful-businesswoman-in-the-offic-2026-01-08-06-53-53-utc-1-e1772506182861.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/portrait-of-a-beautiful-businesswoman-in-the-offic-2026-01-08-06-53-53-utc-1-e1772506182861-800x1162.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 117224,
+            "dimensions": [
+                1000,
+                1453
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/556c7301-fad6-4e28-a259-3bb0d7c370c9"
+        },
+        {
+            "filename": "man-worker-holding-a-photovoltaic-solar-panel-in-w-2026-01-08-23-50-52-utc-1-e1772506577580.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/man-worker-holding-a-photovoltaic-solar-panel-in-w-2026-01-08-23-50-52-utc-1-e1772506577580-800x1116.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 144555,
+            "dimensions": [
+                1000,
+                1395
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/c0d3aac7-6385-45b5-80ca-b11c072010af"
+        },
+        {
+            "filename": "solar-panels-align-in-a-field-contrasting-with-na-2026-01-06-10-20-00-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/solar-panels-align-in-a-field-contrasting-with-na-2026-01-06-10-20-00-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/solutions.json",
+                    "name": "Solutions"
+                }
+            ],
+            "filesize": 238205,
+            "dimensions": [
+                1200,
+                799
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/2a6f2bb3-6cad-4e10-87a7-82629f01a133"
+        },
+        {
+            "filename": "solar-farm-solar-panels-aerial-view-2026-01-05-00-55-25-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/solar-farm-solar-panels-aerial-view-2026-01-05-00-55-25-utc-1-800x530.jpg",
+            "templates": [
+                {
+                    "source": "templates\/solution-detail.json",
+                    "name": "Solution Detail"
+                }
+            ],
+            "filesize": 235731,
+            "dimensions": [
+                1400,
+                927
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/976a7866-a4d1-48ca-9a8c-237d689ca293"
+        },
+        {
+            "filename": "roof-solar-cells-autumn-forest-background-0-2026-01-07-23-03-09-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/roof-solar-cells-autumn-forest-background-0-2026-01-07-23-03-09-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/solution-detail.json",
+                    "name": "Solution Detail"
+                }
+            ],
+            "filesize": 114940,
+            "dimensions": [
+                1000,
+                666
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/a4f1b0c5-3ab3-44fd-b923-49ed029e681c"
+        },
+        {
+            "filename": "aerial-shot-of-a-field-of-solar-panels-at-daytime-2026-01-07-06-33-33-utc.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/aerial-shot-of-a-field-of-solar-panels-at-daytime-2026-01-07-06-33-33-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 214727,
+            "dimensions": [
+                1500,
+                999
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/db244efd-56e4-4bed-afd5-22d7970cb5e9"
+        },
+        {
+            "filename": "men-workers-installing-solar-panels-on-roof-of-hou-2026-01-07-01-02-47-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/men-workers-installing-solar-panels-on-roof-of-hou-2026-01-07-01-02-47-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 240470,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/0fec7336-8f9e-487b-8f5f-da56b3ba4c1c"
+        },
+        {
+            "filename": "a-skilled-technician-adjusts-a-solar-panel-on-roof-2026-01-09-11-09-53-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/a-skilled-technician-adjusts-a-solar-panel-on-roof-2026-01-09-11-09-53-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 130142,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/5d85b80e-1298-48e9-8618-f31710be8e98"
+        },
+        {
+            "filename": "engineers-and-technicians-check-drawings-for-insta-2026-01-08-06-28-37-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/engineers-and-technicians-check-drawings-for-insta-2026-01-08-06-28-37-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 175850,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/0dc02546-22a7-41ab-a4d4-fb3405a42b86"
+        },
+        {
+            "filename": "top-aerial-view-of-solar-roof-system-at-the-roofto-2026-01-09-10-13-43-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/top-aerial-view-of-solar-roof-system-at-the-roofto-2026-01-09-10-13-43-utc-1-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 239744,
+            "dimensions": [
+                1300,
+                975
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/9b217347-44eb-46ec-b2cf-f345515a9252"
+        },
+        {
+            "filename": "aerial-view-of-solar-power-plant-with-blue-photovo-2026-01-06-09-54-10-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/aerial-view-of-solar-power-plant-with-blue-photovo-2026-01-06-09-54-10-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 225086,
+            "dimensions": [
+                1300,
+                866
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/20a02e74-5eaa-4423-bb13-0d0f831dc485"
+        },
+        {
+            "filename": "aerial-view-of-a-rural-private-house-with-solar-ph-2026-01-07-00-13-18-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/aerial-view-of-a-rural-private-house-with-solar-ph-2026-01-07-00-13-18-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-study-detail.json",
+                    "name": "Case Study Detail"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 238159,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/68176075-314e-40ab-8182-e2c7141354d9"
+        },
+        {
+            "filename": "engineer-holding-a-child-in-front-of-solar-panels-2026-01-09-00-01-43-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/engineer-holding-a-child-in-front-of-solar-panels-2026-01-09-00-01-43-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-study-detail.json",
+                    "name": "Case Study Detail"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 95409,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/ca1b9e7d-b676-48b2-b323-93318421fe58"
+        },
+        {
+            "filename": "solar-panel-system-near-the-house-photovoltaic-2026-01-07-01-03-47-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/solar-panel-system-near-the-house-photovoltaic-2026-01-07-01-03-47-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-study-detail.json",
+                    "name": "Case Study Detail"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 143727,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/0aa975a1-62d9-41af-8590-637cc7308127"
+        },
+        {
+            "filename": "african-american-male-tecnhician-showing-solar-sta-2026-01-07-01-25-51-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/african-american-male-tecnhician-showing-solar-sta-2026-01-07-01-25-51-utc-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 130074,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/b28ff410-07ab-4771-8a0c-347bea83ca07"
+        },
+        {
+            "filename": "portrait-of-successful-business-asian-women-in-sui-2026-01-08-05-47-54-utc-1-e1772506055404.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/portrait-of-successful-business-asian-women-in-sui-2026-01-08-05-47-54-utc-1-e1772506055404-800x1019.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 105542,
+            "dimensions": [
+                1000,
+                1274
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/c75a3efb-fda6-4894-a1c5-fff2e439d2ec"
+        },
+        {
+            "filename": "business-is-my-game-portrait-of-a-confident-young-2026-01-09-11-06-39-utc-1-e1772506295819.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/business-is-my-game-portrait-of-a-confident-young-2026-01-09-11-06-39-utc-1-e1772506295819-800x1142.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 100150,
+            "dimensions": [
+                1000,
+                1428
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/256bc529-55e5-4b97-b1f6-e98f907335a7"
+        },
+        {
+            "filename": "confident-business-woman-in-modern-office-showcasi-2026-02-01-04-59-40-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/confident-business-woman-in-modern-office-showcasi-2026-02-01-04-59-40-utc-1-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 93006,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/969f0f9e-106b-4edb-8b19-91d5dd4451d1"
+        },
+        {
+            "filename": "men-technician-mounting-photovoltaic-solar-modules-2025-01-31-05-19-34-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/men-technician-mounting-photovoltaic-solar-modules-2025-01-31-05-19-34-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 194271,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/b974f40e-3f29-409a-a50c-ad61a2eecd5b"
+        },
+        {
+            "filename": "mother-with-her-little-son-by-solar-panels-2026-01-08-08-24-23-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/mother-with-her-little-son-by-solar-panels-2026-01-08-08-24-23-utc-1-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 187010,
+            "dimensions": [
+                2000,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/20c3dcae-4206-4e16-96db-37e792ba2c75"
+        },
+        {
+            "filename": "cheerful-young-couple-jumping-together-holding-han-2026-01-07-00-59-59-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/cheerful-young-couple-jumping-together-holding-han-2026-01-07-00-59-59-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 120956,
+            "dimensions": [
+                1000,
+                668
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/65d253a9-62d9-433c-9347-c0afebbe5a2b"
+        },
+        {
+            "filename": "the-modern-house-with-a-roof-designed-as-a-large-s-2026-01-05-23-59-57-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/the-modern-house-with-a-roof-designed-as-a-large-s-2026-01-05-23-59-57-utc-1-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 221544,
+            "dimensions": [
+                1200,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/ac5b4eed-2eea-41f8-86b2-ab22bcc2f5b1"
+        },
+        {
+            "filename": "aerial-view-of-a-private-house-with-solar-photovol-2026-01-07-02-12-42-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/aerial-view-of-a-private-house-with-solar-photovol-2026-01-07-02-12-42-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 237278,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/f4e8b7be-67f9-4c66-81c7-a8ebc1aaa4c3"
+        },
+        {
+            "filename": "solar-panels-on-the-roof-of-residential-buildings-2026-01-07-07-23-19-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/solar-panels-on-the-roof-of-residential-buildings-2026-01-07-07-23-19-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 219030,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/5c5b64b4-0274-44a7-b375-476c48ae8706"
+        },
+        {
+            "filename": "solar-energy-2026-01-09-06-49-12-utc-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/solar-energy-2026-01-09-06-49-12-utc-1-800x524.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 244195,
+            "dimensions": [
+                2400,
+                1572
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/4c5d8b1d-48eb-4190-bcba-d651d0666952"
+        },
+        {
+            "filename": "solar-panels-or-solar-cells-renewable-energy-sour-2026-01-05-06-33-05-utc-1-1.jpg",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/03\/solar-panels-or-solar-cells-renewable-energy-sour-2026-01-05-06-33-05-utc-1-1-800x506.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 167871,
+            "dimensions": [
+                2000,
+                1265
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/app.envato.com\/workspaces\/ef86704b-3140-4310-a320-19c70842cb82\/photos\/75016c24-b5a3-416b-8cae-2694ec81fd45"
+        },
+        {
+            "filename": "helioxa-logo.png",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/02\/helioxa-logo-800x242.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 34593,
+            "dimensions": [
+                2132,
+                644
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/green-alternative-energy-power-logo_14241011.htm"
+        },
+        {
+            "filename": "helioxa-logo-2.png",
+            "thumbnail_url": "https:\/\/www.wp-templatekit.codeinsolution.com\/helioxa\/wp-content\/uploads\/sites\/4\/2026\/02\/helioxa-logo-2-800x242.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 36619,
+            "dimensions": [
+                2132,
+                644
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/green-alternative-energy-power-logo_14241011.htm"
+        }
+    ]
+}
